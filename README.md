@@ -9,6 +9,4 @@ The .csv files provided in the sourcedata directory can be loaded and processed 
 
 The Statistical Analysis call can also be executed within each of the three analysis scripts, without the need to initialise the main library. 
 
-## Citation
 
-If used please cite this: [![DOI](https://zenodo.org/badge/1340654240.svg)](https://doi.org/10.5281/zenodo.22029388)
